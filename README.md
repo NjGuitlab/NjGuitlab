@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="> Bonjour, je suis NjGuitlab — Développeur logiciel | Backend | API REST | QA & Automatisation" />
+  <img src="./assets/hero.svg" width="100%" alt="> Bonjour, je suis Nadjib 👋 — Développeur logiciel | Backend | API REST | QA & Automatisation" />
 </p>
 
 <p align="center">
